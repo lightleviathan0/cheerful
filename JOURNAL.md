@@ -27,7 +27,7 @@ another key thing today was design of the form factor. i decided on a graphing c
 
 here's a picture of some of the concept art (with my ti-84 plus for scale):
 
-![concept art](assets/IMG_3592.jpg)
+![concept art (check github for image, idk how to embed sorry :(()](assets/IMG_3592.jpg)
 
 anyway, that's it for day one! 
 
